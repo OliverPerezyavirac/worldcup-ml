@@ -1,0 +1,12 @@
+[
+  { "posicion": 1, "pais": "Argentina", "pj": 18, "g": 12, "e": 2, "p": 4, "gf": 31, "gc": 10, "dg": 21, "pts": 38 },
+  { "posicion": 2, "pais": "Ecuador", "pj": 18, "g": 8, "e": 8, "p": 2, "gf": 14, "gc": 5, "dg": 9, "pts": 29 },
+  { "posicion": 3, "pais": "Colombia", "pj": 18, "g": 7, "e": 7, "p": 4, "gf": 28, "gc": 18, "dg": 10, "pts": 28 },
+  { "posicion": 4, "pais": "Uruguay", "pj": 18, "g": 7, "e": 7, "p": 4, "gf": 22, "gc": 12, "dg": 10, "pts": 28 },
+  { "posicion": 5, "pais": "Brasil", "pj": 18, "g": 8, "e": 4, "p": 6, "gf": 24, "gc": 17, "dg": 7, "pts": 28 },
+  { "posicion": 6, "pais": "Paraguay", "pj": 18, "g": 7, "e": 7, "p": 4, "gf": 14, "gc": 10, "dg": 4, "pts": 28 },
+  { "posicion": 7, "pais": "Bolivia", "pj": 18, "g": 6, "e": 2, "p": 10, "gf": 17, "gc": 35, "dg": -18, "pts": 20 },
+  { "posicion": 8, "pais": "Venezuela", "pj": 18, "g": 4, "e": 6, "p": 8, "gf": 18, "gc": 28, "dg": -10, "pts": 18 },
+  { "posicion": 9, "pais": "Perú", "pj": 18, "g": 2, "e": 6, "p": 10, "gf": 6, "gc": 21, "dg": -15, "pts": 12 },
+  { "posicion": 10, "pais": "Chile", "pj": 18, "g": 2, "e": 5, "p": 11, "gf": 9, "gc": 27, "dg": -18, "pts": 11 }
+]

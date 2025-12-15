@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.env
+.venv/
+
+data/processed/
+
+models/*.pkl
+logs/
+
+.DS_Store

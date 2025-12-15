@@ -1,0 +1,44 @@
+{
+  "CAF": {
+    "Group A": [
+      { "posicion": 1, "pais": "Egipto", "pj": 10, "g": 8, "e": 2, "p": 0, "dg": 18, "pts": 26 },
+      { "posicion": 2, "pais": "Burkina Faso", "pj": 10, "g": 6, "e": 3, "p": 1, "dg": 15, "pts": 21 },
+      { "posicion": 3, "pais": "Sierra Leona", "pj": 10, "g": 4, "e": 3, "p": 3, "dg": 2, "pts": 15 },
+      { "posicion": 4, "pais": "Guinea-Bisáu", "pj": 10, "g": 2, "e": 4, "p": 4, "dg": -2, "pts": 10 },
+      { "posicion": 5, "pais": "Etiopía", "pj": 10, "g": 2, "e": 3, "p": 5, "dg": -5, "pts": 9 },
+      { "posicion": 6, "pais": "Yibuti", "pj": 10, "g": 0, "e": 1, "p": 9, "dg": -28, "pts": 1 }
+    ],
+    "Group B": [
+      { "posicion": 1, "pais": "Senegal", "pj": 10, "g": 7, "e": 3, "p": 0, "dg": 19, "pts": 24 },
+      { "posicion": 2, "pais": "RD Congo", "pj": 10, "g": 7, "e": 1, "p": 2, "dg": 9, "pts": 22 },
+      { "posicion": 3, "pais": "Sudán", "pj": 10, "g": 3, "e": 4, "p": 3, "dg": 2, "pts": 13 },
+      { "posicion": 4, "pais": "Togo", "pj": 10, "g": 1, "e": 5, "p": 4, "dg": -5, "pts": 8 },
+      { "posicion": 5, "pais": "Mauritania", "pj": 10, "g": 1, "e": 4, "p": 5, "dg": -9, "pts": 7 },
+      { "posicion": 6, "pais": "Sudán del Sur", "pj": 10, "g": 0, "e": 5, "p": 5, "dg": -16, "pts": 5 }
+    ],
+    "Group C": [
+      { "posicion": 1, "pais": "Sudáfrica", "pj": 10, "g": 5, "e": 3, "p": 2, "dg": 6, "pts": 18 },
+      { "posicion": 2, "pais": "Nigeria", "pj": 10, "g": 4, "e": 5, "p": 1, "dg": 7, "pts": 17 },
+      { "posicion": 3, "pais": "Benín", "pj": 10, "g": 5, "e": 2, "p": 3, "dg": 1, "pts": 17 },
+      { "posicion": 4, "pais": "Lesoto", "pj": 10, "g": 3, "e": 3, "p": 4, "dg": -3, "pts": 12 },
+      { "posicion": 5, "pais": "Ruanda", "pj": 10, "g": 3, "e": 2, "p": 5, "dg": -4, "pts": 11 },
+      { "posicion": 6, "pais": "Zimbabue", "pj": 10, "g": 0, "e": 5, "p": 5, "dg": -7, "pts": 5 }
+    ],
+    "Group D": [
+      { "posicion": 1, "pais": "Cabo Verde", "pj": 10, "g": 7, "e": 2, "p": 1, "dg": 8, "pts": 23 },
+      { "posicion": 2, "pais": "Camerún", "pj": 10, "g": 5, "e": 4, "p": 1, "dg": 12, "pts": 19 },
+      { "posicion": 3, "pais": "Libia", "pj": 10, "g": 4, "e": 4, "p": 2, "dg": 2, "pts": 16 },
+      { "posicion": 4, "pais": "Angola", "pj": 10, "g": 2, "e": 6, "p": 2, "dg": 1, "pts": 12 },
+      { "posicion": 5, "pais": "Mauricio", "pj": 10, "g": 1, "e": 3, "p": 6, "dg": -10, "pts": 6 },
+      { "posicion": 6, "pais": "Esuatini", "pj": 10, "g": 0, "e": 3, "p": 7, "dg": -13, "pts": 3 }
+    ],
+    "Group E": [
+      { "posicion": 1, "pais": "Marruecos", "pj": 8, "g": 8, "e": 0, "p": 0, "dg": 20, "pts": 24 },
+      { "posicion": 2, "pais": "Nigeria", "pj": 8, "g": 5, "e": 0, "p": 3, "dg": 1, "pts": 15 },
+      { "posicion": 3, "pais": "Tanzania", "pj": 8, "g": 3, "e": 1, "p": 4, "dg": -1, "pts": 10 },
+      { "posicion": 4, "pais": "Zambia", "pj": 8, "g": 3, "e": 0, "p": 5, "dg": 0, "pts": 9 },
+      { "posicion": 5, "pais": "Congo", "pj": 8, "g": 0, "e": 1, "p": 7, "dg": -20, "pts": 1 },
+      { "posicion": 6, "pais": "Eritrea", "pj": 0, "g": 0, "e": 0, "p": 0, "dg": 0, "pts": 0 }
+    ]
+  }
+}

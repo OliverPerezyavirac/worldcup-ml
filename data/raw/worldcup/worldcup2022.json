@@ -1,0 +1,514 @@
+[
+  {
+    "partido": 1,
+    "ronda": "1ra Ronda",
+    "grupo": "A",
+    "local": "Catar",
+    "visitante": "Ecuador",
+    "resultado": "0-2"
+  },
+  {
+    "partido": 2,
+    "ronda": "1ra Ronda",
+    "grupo": "B",
+    "local": "Inglaterra",
+    "visitante": "Irán",
+    "resultado": "6-2"
+  },
+  {
+    "partido": 3,
+    "ronda": "1ra Ronda",
+    "grupo": "A",
+    "local": "Senegal",
+    "visitante": "Paises Bajos",
+    "resultado": "0-2"
+  },
+  {
+    "partido": 4,
+    "ronda": "1ra Ronda",
+    "grupo": "B",
+    "local": "Estados Unidos",
+    "visitante": "Gales",
+    "resultado": "1-1"
+  },
+  {
+    "partido": 5,
+    "ronda": "1ra Ronda",
+    "grupo": "C",
+    "local": "Argentina",
+    "visitante": "Arabia Saudita",
+    "resultado": "1-2"
+  },
+  {
+    "partido": 6,
+    "ronda": "1ra Ronda",
+    "grupo": "D",
+    "local": "Dinamarca",
+    "visitante": "Túnez",
+    "resultado": "0-0"
+  },
+  {
+    "partido": 7,
+    "ronda": "1ra Ronda",
+    "grupo": "C",
+    "local": "México",
+    "visitante": "Polonia",
+    "resultado": "0-0"
+  },
+  {
+    "partido": 8,
+    "ronda": "1ra Ronda",
+    "grupo": "D",
+    "local": "Francia",
+    "visitante": "Australia",
+    "resultado": "4-1"
+  },
+  {
+    "partido": 9,
+    "ronda": "1ra Ronda",
+    "grupo": "F",
+    "local": "Marruecos",
+    "visitante": "Croacia",
+    "resultado": "0-0"
+  },
+  {
+    "partido": 10,
+    "ronda": "1ra Ronda",
+    "grupo": "E",
+    "local": "Alemania",
+    "visitante": "Japón",
+    "resultado": "1-2"
+  },
+  {
+    "partido": 11,
+    "ronda": "1ra Ronda",
+    "grupo": "E",
+    "local": "España",
+    "visitante": "Costa Rica",
+    "resultado": "7-0"
+  },
+  {
+    "partido": 12,
+    "ronda": "1ra Ronda",
+    "grupo": "F",
+    "local": "Bélgica",
+    "visitante": "Canadá",
+    "resultado": "1-0"
+  },
+  {
+    "partido": 13,
+    "ronda": "1ra Ronda",
+    "grupo": "G",
+    "local": "Suiza",
+    "visitante": "Camerún",
+    "resultado": "1-0"
+  },
+  {
+    "partido": 14,
+    "ronda": "1ra Ronda",
+    "grupo": "H",
+    "local": "Uruguay",
+    "visitante": "Corea del Sur",
+    "resultado": "0-0"
+  },
+  {
+    "partido": 15,
+    "ronda": "1ra Ronda",
+    "grupo": "H",
+    "local": "Portugal",
+    "visitante": "Ghana",
+    "resultado": "3-2"
+  },
+  {
+    "partido": 16,
+    "ronda": "1ra Ronda",
+    "grupo": "G",
+    "local": "Brasil",
+    "visitante": "Serbia",
+    "resultado": "2-0"
+  },
+  {
+    "partido": 17,
+    "ronda": "1ra Ronda",
+    "grupo": "B",
+    "local": "Gales",
+    "visitante": "Irán",
+    "resultado": "0-2"
+  },
+  {
+    "partido": 18,
+    "ronda": "1ra Ronda",
+    "grupo": "A",
+    "local": "Catar",
+    "visitante": "Senegal",
+    "resultado": "1-3"
+  },
+  {
+    "partido": 19,
+    "ronda": "1ra Ronda",
+    "grupo": "A",
+    "local": "Paises Bajos",
+    "visitante": "Ecuador",
+    "resultado": "1-1"
+  },
+  {
+    "partido": 20,
+    "ronda": "1ra Ronda",
+    "grupo": "B",
+    "local": "Inglaterra",
+    "visitante": "Estados Unidos",
+    "resultado": "0-0"
+  },
+  {
+    "partido": 21,
+    "ronda": "1ra Ronda",
+    "grupo": "D",
+    "local": "Túnez",
+    "visitante": "Australia",
+    "resultado": "0-1"
+  },
+  {
+    "partido": 22,
+    "ronda": "1ra Ronda",
+    "grupo": "C",
+    "local": "Polonia",
+    "visitante": "Arabia Saudita",
+    "resultado": "2-0"
+  },
+  {
+    "partido": 23,
+    "ronda": "1ra Ronda",
+    "grupo": "D",
+    "local": "Francia",
+    "visitante": "Dinamarca",
+    "resultado": "2-1"
+  },
+  {
+    "partido": 24,
+    "ronda": "1ra Ronda",
+    "grupo": "C",
+    "local": "Argentina",
+    "visitante": "México",
+    "resultado": "2-0"
+  },
+  {
+    "partido": 25,
+    "ronda": "1ra Ronda",
+    "grupo": "E",
+    "local": "Japón",
+    "visitante": "Costa Rica",
+    "resultado": "0-1"
+  },
+  {
+    "partido": 26,
+    "ronda": "1ra Ronda",
+    "grupo": "F",
+    "local": "Bélgica",
+    "visitante": "Marruecos",
+    "resultado": "0-2"
+  },
+  {
+    "partido": 27,
+    "ronda": "1ra Ronda",
+    "grupo": "F",
+    "local": "Croacia",
+    "visitante": "Canadá",
+    "resultado": "4-1"
+  },
+  {
+    "partido": 28,
+    "ronda": "1ra Ronda",
+    "grupo": "E",
+    "local": "España",
+    "visitante": "Alemania",
+    "resultado": "1-1"
+  },
+  {
+    "partido": 29,
+    "ronda": "1ra Ronda",
+    "grupo": "G",
+    "local": "Camerún",
+    "visitante": "Serbia",
+    "resultado": "3-3"
+  },
+  {
+    "partido": 30,
+    "ronda": "1ra Ronda",
+    "grupo": "H",
+    "local": "Corea del Sur",
+    "visitante": "Ghana",
+    "resultado": "2-3"
+  },
+  {
+    "partido": 31,
+    "ronda": "1ra Ronda",
+    "grupo": "G",
+    "local": "Brasil",
+    "visitante": "Suiza",
+    "resultado": "1-0"
+  },
+  {
+    "partido": 32,
+    "ronda": "1ra Ronda",
+    "grupo": "H",
+    "local": "Portugal",
+    "visitante": "Uruguay",
+    "resultado": "2-0"
+  },
+  {
+    "partido": 33,
+    "ronda": "1ra Ronda",
+    "grupo": "A",
+    "local": "Paises Bajos",
+    "visitante": "Catar",
+    "resultado": "2-0"
+  },
+  {
+    "partido": 34,
+    "ronda": "1ra Ronda",
+    "grupo": "A",
+    "local": "Ecuador",
+    "visitante": "Senegal",
+    "resultado": "1-2"
+  },
+  {
+    "partido": 35,
+    "ronda": "1ra Ronda",
+    "grupo": "B",
+    "local": "Gales",
+    "visitante": "Inglaterra",
+    "resultado": "0-3"
+  },
+  {
+    "partido": 36,
+    "ronda": "1ra Ronda",
+    "grupo": "B",
+    "local": "Irán",
+    "visitante": "Estados Unidos",
+    "resultado": "0-1"
+  },
+  {
+    "partido": 37,
+    "ronda": "1ra Ronda",
+    "grupo": "D",
+    "local": "Australia",
+    "visitante": "Dinamarca",
+    "resultado": "1-0"
+  },
+  {
+    "partido": 38,
+    "ronda": "1ra Ronda",
+    "grupo": "D",
+    "local": "Túnez",
+    "visitante": "Francia",
+    "resultado": "1-0"
+  },
+  {
+    "partido": 39,
+    "ronda": "1ra Ronda",
+    "grupo": "C",
+    "local": "Arabia Saudita",
+    "visitante": "México",
+    "resultado": "1-2"
+  },
+  {
+    "partido": 40,
+    "ronda": "1ra Ronda",
+    "grupo": "C",
+    "local": "Polonia",
+    "visitante": "Argentina",
+    "resultado": "0-2"
+  },
+  {
+    "partido": 41,
+    "ronda": "1ra Ronda",
+    "grupo": "F",
+    "local": "Croacia",
+    "visitante": "Bélgica",
+    "resultado": "0-0"
+  },
+  {
+    "partido": 42,
+    "ronda": "1ra Ronda",
+    "grupo": "F",
+    "local": "Canadá",
+    "visitante": "Marruecos",
+    "resultado": "1-2"
+  },
+  {
+    "partido": 43,
+    "ronda": "1ra Ronda",
+    "grupo": "E",
+    "local": "Japón",
+    "visitante": "España",
+    "resultado": "2-1"
+  },
+  {
+    "partido": 44,
+    "ronda": "1ra Ronda",
+    "grupo": "E",
+    "local": "Costa Rica",
+    "visitante": "Alemania",
+    "resultado": "2-4"
+  },
+  {
+    "partido": 45,
+    "ronda": "1ra Ronda",
+    "grupo": "H",
+    "local": "Ghana",
+    "visitante": "Uruguay",
+    "resultado": "0-2"
+  },
+  {
+    "partido": 46,
+    "ronda": "1ra Ronda",
+    "grupo": "H",
+    "local": "Corea del Sur",
+    "visitante": "Portugal",
+    "resultado": "2-1"
+  },
+  {
+    "partido": 47,
+    "ronda": "1ra Ronda",
+    "grupo": "G",
+    "local": "Serbia",
+    "visitante": "Suiza",
+    "resultado": "2-3"
+  },
+  {
+    "partido": 48,
+    "ronda": "1ra Ronda",
+    "grupo": "G",
+    "local": "Camerún",
+    "visitante": "Brasil",
+    "resultado": "1-0"
+  },
+  {
+    "partido": 49,
+    "ronda": "Octavos",
+    "grupo": null,
+    "local": "Paises Bajos",
+    "visitante": "Estados Unidos",
+    "resultado": "3-1"
+  },
+  {
+    "partido": 50,
+    "ronda": "Octavos",
+    "grupo": null,
+    "local": "Argentina",
+    "visitante": "Australia",
+    "resultado": "2-1"
+  },
+  {
+    "partido": 51,
+    "ronda": "Octavos",
+    "grupo": null,
+    "local": "Inglaterra",
+    "visitante": "Senegal",
+    "resultado": "3-0"
+  },
+  {
+    "partido": 52,
+    "ronda": "Octavos",
+    "grupo": null,
+    "local": "Francia",
+    "visitante": "Polonia",
+    "resultado": "3-1"
+  },
+  {
+    "partido": 53,
+    "ronda": "Octavos",
+    "grupo": null,
+    "local": "Japón",
+    "visitante": "Croacia",
+    "resultado": "1-1 (1-3 penales)"
+  },
+  {
+    "partido": 54,
+    "ronda": "Octavos",
+    "grupo": null,
+    "local": "Brasil",
+    "visitante": "Corea del Sur",
+    "resultado": "4-1"
+  },
+  {
+    "partido": 55,
+    "ronda": "Octavos",
+    "grupo": null,
+    "local": "Marruecos",
+    "visitante": "España",
+    "resultado": "0-0 (3-0 penales)"
+  },
+  {
+    "partido": 56,
+    "ronda": "Octavos",
+    "grupo": null,
+    "local": "Portugal",
+    "visitante": "Suiza",
+    "resultado": "6-1"
+  },
+  {
+    "partido": 57,
+    "ronda": "Cuartos",
+    "grupo": null,
+    "local": "Paises Bajos",
+    "visitante": "Argentina",
+    "resultado": "2-2 (3-4 penales)"
+  },
+  {
+    "partido": 58,
+    "ronda": "Cuartos",
+    "grupo": null,
+    "local": "Croacia",
+    "visitante": "Brasil",
+    "resultado": "1-1 (4-2 penales)"
+  },
+  {
+    "partido": 59,
+    "ronda": "Cuartos",
+    "grupo": null,
+    "local": "Inglaterra",
+    "visitante": "Francia",
+    "resultado": "1-2"
+  },
+  {
+    "partido": 60,
+    "ronda": "Cuartos",
+    "grupo": null,
+    "local": "Marruecos",
+    "visitante": "Portugal",
+    "resultado": "1-0"
+  },
+  {
+    "partido": 61,
+    "ronda": "Semis",
+    "grupo": null,
+    "local": "Argentina",
+    "visitante": "Croacia",
+    "resultado": "3-0"
+  },
+  {
+    "partido": 62,
+    "ronda": "Semis",
+    "grupo": null,
+    "local": "Francia",
+    "visitante": "Marruecos",
+    "resultado": "2-0"
+  },
+  {
+    "partido": 63,
+    "ronda": "3er Puesto",
+    "grupo": null,
+    "local": "Croacia",
+    "visitante": "Marruecos",
+    "resultado": "2-1"
+  },
+  {
+    "partido": 64,
+    "ronda": "Final",
+    "grupo": null,
+    "local": "Argentina",
+    "visitante": "Francia",
+    "resultado": "3-3 (4-2 penales)"
+  }
+]

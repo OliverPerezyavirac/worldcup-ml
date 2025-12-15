@@ -1,0 +1,146 @@
+[
+  {
+    "partido": 1,
+    "ronda": "1ra Ronda",
+    "grupo": "1",
+    "local": "Francia",
+    "visitante": "México",
+    "resultado": "4-1"
+  },
+  {
+    "partido": 2,
+    "ronda": "1ra Ronda",
+    "grupo": "4",
+    "local": "Estados Unidos",
+    "visitante": "Bélgica",
+    "resultado": "3-0"
+  },
+  {
+    "partido": 3,
+    "ronda": "1ra Ronda",
+    "grupo": "3",
+    "local": "Rumania",
+    "visitante": "Perú",
+    "resultado": "3-1"
+  },
+  {
+    "partido": 4,
+    "ronda": "1ra Ronda",
+    "grupo": "2",
+    "local": "Yugoslavia",
+    "visitante": "Brasil",
+    "resultado": "2-1"
+  },
+  {
+    "partido": 5,
+    "ronda": "1ra Ronda",
+    "grupo": "1",
+    "local": "Argentina",
+    "visitante": "Francia",
+    "resultado": "1-0"
+  },
+  {
+    "partido": 6,
+    "ronda": "1ra Ronda",
+    "grupo": "1",
+    "local": "Chile",
+    "visitante": "México",
+    "resultado": "3-0"
+  },
+  {
+    "partido": 7,
+    "ronda": "1ra Ronda",
+    "grupo": "2",
+    "local": "Yugoslavia",
+    "visitante": "Bolivia",
+    "resultado": "4-0"
+  },
+  {
+    "partido": 8,
+    "ronda": "1ra Ronda",
+    "grupo": "4",
+    "local": "Estados Unidos",
+    "visitante": "Paraguay",
+    "resultado": "3-0"
+  },
+  {
+    "partido": 9,
+    "ronda": "1ra Ronda",
+    "grupo": "3",
+    "local": "Uruguay",
+    "visitante": "Perú",
+    "resultado": "1-0"
+  },
+  {
+    "partido": 10,
+    "ronda": "1ra Ronda",
+    "grupo": "1",
+    "local": "Argentina",
+    "visitante": "México",
+    "resultado": "6-3"
+  },
+  {
+    "partido": 11,
+    "ronda": "1ra Ronda",
+    "grupo": "1",
+    "local": "Chile",
+    "visitante": "Francia",
+    "resultado": "1-0"
+  },
+  {
+    "partido": 12,
+    "ronda": "1ra Ronda",
+    "grupo": "4",
+    "local": "Paraguay",
+    "visitante": "Bélgica",
+    "resultado": "1-0"
+  },
+  {
+    "partido": 13,
+    "ronda": "1ra Ronda",
+    "grupo": "2",
+    "local": "Brasil",
+    "visitante": "Bolivia",
+    "resultado": "4-0"
+  },
+  {
+    "partido": 14,
+    "ronda": "1ra Ronda",
+    "grupo": "3",
+    "local": "Uruguay",
+    "visitante": "Rumania",
+    "resultado": "4-0"
+  },
+  {
+    "partido": 15,
+    "ronda": "1ra Ronda",
+    "grupo": "1",
+    "local": "Argentina",
+    "visitante": "Chile",
+    "resultado": "3-1"
+  },
+  {
+    "partido": 16,
+    "ronda": "Semifinal",
+    "grupo": null,
+    "local": "Argentina",
+    "visitante": "Estados Unidos",
+    "resultado": "6-1"
+  },
+  {
+    "partido": 17,
+    "ronda": "Semifinal",
+    "grupo": null,
+    "local": "Uruguay",
+    "visitante": "Yugoslavia",
+    "resultado": "6-1"
+  },
+  {
+    "partido": 18,
+    "ronda": "Final",
+    "grupo": null,
+    "local": "Argentina",
+    "visitante": "Uruguay",
+    "resultado": "2-4"
+  }
+]

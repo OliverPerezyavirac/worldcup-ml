@@ -1,0 +1,49 @@
+{
+  "Group A": [
+    { "posicion": 1, "pais": "Alemania", "pj": 6, "g": 5, "e": 0, "p": 1, "dg": 13, "pts": 15 },
+    { "posicion": 2, "pais": "Eslovaquia", "pj": 6, "g": 4, "e": 0, "p": 2, "dg": -2, "pts": 12 },
+    { "posicion": 3, "pais": "Irlanda del Norte", "pj": 6, "g": 3, "e": 0, "p": 3, "dg": 1, "pts": 9 },
+    { "posicion": 4, "pais": "Luxemburgo", "pj": 6, "g": 0, "e": 0, "p": 6, "dg": -12, "pts": 0 }
+  ],
+  "Group B": [
+    { "posicion": 1, "pais": "Suiza", "pj": 6, "g": 4, "e": 2, "p": 0, "dg": 12, "pts": 14 },
+    { "posicion": 2, "pais": "Kosovo", "pj": 6, "g": 3, "e": 2, "p": 1, "dg": 1, "pts": 11 },
+    { "posicion": 3, "pais": "Eslovenia", "pj": 6, "g": 0, "e": 4, "p": 2, "dg": -5, "pts": 4 },
+    { "posicion": 4, "pais": "Suecia", "pj": 6, "g": 0, "e": 2, "p": 4, "dg": -8, "pts": 2 }
+  ],
+  "Group C": [
+    { "posicion": 1, "pais": "Escocia", "pj": 6, "g": 4, "e": 1, "p": 1, "dg": 6, "pts": 13 },
+    { "posicion": 2, "pais": "Dinamarca", "pj": 6, "g": 3, "e": 2, "p": 1, "dg": 9, "pts": 11 },
+    { "posicion": 3, "pais": "Grecia", "pj": 6, "g": 2, "e": 1, "p": 3, "dg": -2, "pts": 7 },
+    { "posicion": 4, "pais": "Bielorrusia", "pj": 6, "g": 0, "e": 2, "p": 4, "dg": -13, "pts": 2 }
+  ],
+  "Group D": [
+    { "posicion": 1, "pais": "Francia", "pj": 6, "g": 5, "e": 1, "p": 0, "dg": 12, "pts": 16 },
+    { "posicion": 2, "pais": "Ucrania", "pj": 6, "g": 3, "e": 1, "p": 2, "dg": -1, "pts": 10 },
+    { "posicion": 3, "pais": "Islandia", "pj": 6, "g": 2, "e": 1, "p": 3, "dg": 2, "pts": 7 },
+    { "posicion": 4, "pais": "Azerbaiyán", "pj": 6, "g": 0, "e": 1, "p": 5, "dg": -13, "pts": 1 }
+  ],
+  "Group E": [
+    { "posicion": 1, "pais": "España", "pj": 6, "g": 5, "e": 1, "p": 0, "dg": 19, "pts": 16 },
+    { "posicion": 2, "pais": "Turquía", "pj": 6, "g": 4, "e": 1, "p": 1, "dg": 5, "pts": 13 },
+    { "posicion": 3, "pais": "Georgia", "pj": 6, "g": 1, "e": 0, "p": 5, "dg": -8, "pts": 3 },
+    { "posicion": 4, "pais": "Bulgaria", "pj": 6, "g": 1, "e": 0, "p": 5, "dg": -16, "pts": 3 }
+  ],
+  "Group F": [
+    { "posicion": 1, "pais": "Portugal", "pj": 6, "g": 4, "e": 1, "p": 1, "dg": 13, "pts": 13 },
+    { "posicion": 2, "pais": "Irlanda", "pj": 6, "g": 3, "e": 1, "p": 2, "dg": 2, "pts": 10 },
+    { "posicion": 3, "pais": "Hungría", "pj": 6, "g": 2, "e": 2, "p": 2, "dg": 1, "pts": 8 },
+    { "posicion": 4, "pais": "Armenia", "pj": 6, "g": 1, "e": 0, "p": 5, "dg": -16, "pts": 3 }
+  ],
+  "Group G": [
+    { "posicion": 1, "pais": "Países Bajos", "pj": 8, "g": 6, "e": 2, "p": 0, "dg": 23, "pts": 20 },
+    { "posicion": 2, "pais": "Polonia", "pj": 8, "g": 5, "e": 2, "p": 1, "dg": 7, "pts": 17 },
+    { "posicion": 3, "pais": "Finlandia", "pj": 8, "g": 3, "e": 1, "p": 4, "dg": -6, "pts": 10 },
+    { "posicion": 4, "pais": "Malta", "pj": 8, "g": 1, "e": 2, "p": 5, "dg": -15, "pts": 5 },
+    { "posicion": 5, "pais": "Lituania", "pj": 8, "g": 0, "e": 3, "p": 5, "dg": -9, "pts": 3 }
+  ],
+  "Group H": [
+    { "posicion": 1, "pais": "Austria", "pj": 8, "g": 6, "e": 1, "p": 1, "dg": 18, "pts": 19 },
+    { "posicion": 2, "pais": "Bosnia y Herzegovina", "pj": 8, "g": 5, "e": 2, "p": 1, "dg": 10, "pts": 17 }
+  ]
+}
