@@ -1,0 +1,12 @@
+{
+  "repechaje_intercontinental": {
+    "semifinales": [
+      { "local": "Nueva Caledonia", "visitante": "Jamaica" },
+      { "local": "Bolivia", "visitante": "Surinam" }
+    ],
+    "finales": [
+      { "local": "Congo", "visitante": "Ganador de Nueva Caledonia vs Jamaica" },
+      { "local": "Iraq", "visitante": "Ganador de Bolivia vs Surinam" }
+    ]
+  }
+}
