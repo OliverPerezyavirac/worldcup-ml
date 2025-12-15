@@ -1,0 +1,20 @@
+{
+  "repechaje_uefa": {
+    "semifinales": [
+      { "local": "Italia", "visitante": "Irlanda del Norte" },
+      { "local": "Ucrania", "visitante": "Suecia" },
+      { "local": "Turquía", "visitante": "Rumania" },
+      { "local": "Dinamarca", "visitante": "Macedonia del Norte" },
+      { "local": "Gales", "visitante": "Bosnia y Herzegovina" },
+      { "local": "Polonia", "visitante": "Albania" },
+      { "local": "Eslovaquia", "visitante": "Kosovo" },
+      { "local": "República Checa", "visitante": "Irlanda" }
+    ],
+    "finales": [
+      { "local": "Ganador Italia vs Irlanda del Norte", "visitante": "Ganador Ucrania vs Suecia" },
+      { "local": "Ganador Turquía vs Rumania", "visitante": "Ganador Dinamarca vs Macedonia del Norte" },
+      { "local": "Ganador Gales vs Bosnia y Herzegovina", "visitante": "Ganador Polonia vs Albania" },
+      { "local": "Ganador Eslovaquia vs Kosovo", "visitante": "Ganador República Checa vs Irlanda" }
+    ]
+  }
+}
