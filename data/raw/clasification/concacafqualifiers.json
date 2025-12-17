@@ -1,22 +1,20 @@
 {
-  "CONCACAF": {
-    "Group A": [
-      { "posicion": 1, "pais": "Panamá", "pj": 6, "g": 3, "e": 3, "p": 0, "dg": 5, "pts": 12 },
-      { "posicion": 2, "pais": "Surinam", "pj": 6, "g": 2, "e": 3, "p": 1, "dg": 3, "pts": 9 },
-      { "posicion": 3, "pais": "Guatemala", "pj": 6, "g": 2, "e": 2, "p": 2, "dg": 1, "pts": 8 },
-      { "posicion": 4, "pais": "El Salvador", "pj": 6, "g": 1, "e": 0, "p": 5, "dg": -9, "pts": 3 }
-    ],
-    "Group B": [
-      { "posicion": 1, "pais": "Curazao", "pj": 6, "g": 3, "e": 3, "p": 0, "dg": 10, "pts": 12 },
-      { "posicion": 2, "pais": "Jamaica", "pj": 6, "g": 3, "e": 2, "p": 1, "dg": 8, "pts": 11 },
-      { "posicion": 3, "pais": "Trinidad y Tobago", "pj": 6, "g": 1, "e": 4, "p": 1, "dg": 1, "pts": 7 },
-      { "posicion": 4, "pais": "Bermudas", "pj": 6, "g": 0, "e": 1, "p": 5, "dg": -19, "pts": 1 }
-    ],
-    "Group C": [
-      { "posicion": 1, "pais": "Haití", "pj": 6, "g": 3, "e": 2, "p": 1, "dg": 3, "pts": 11 },
-      { "posicion": 2, "pais": "Honduras", "pj": 6, "g": 2, "e": 3, "p": 1, "dg": 3, "pts": 9 },
-      { "posicion": 3, "pais": "Costa Rica", "pj": 6, "g": 1, "e": 4, "p": 1, "dg": 2, "pts": 7 },
-      { "posicion": 4, "pais": "Nicaragua", "pj": 6, "g": 1, "e": 1, "p": 4, "dg": -8, "pts": 4 }
-    ]
-  }
+  "Group A": [
+    { "posicion": 1, "pais": "Panamá", "pj": 6, "g": 3, "e": 3, "p": 0, "dg": 5, "pts": 12 },
+    { "posicion": 2, "pais": "Surinam", "pj": 6, "g": 2, "e": 3, "p": 1, "dg": 3, "pts": 9 },
+    { "posicion": 3, "pais": "Guatemala", "pj": 6, "g": 2, "e": 2, "p": 2, "dg": 1, "pts": 8 },
+    { "posicion": 4, "pais": "El Salvador", "pj": 6, "g": 1, "e": 0, "p": 5, "dg": -9, "pts": 3 }
+  ],
+  "Group B": [
+    { "posicion": 1, "pais": "Curazao", "pj": 6, "g": 3, "e": 3, "p": 0, "dg": 10, "pts": 12 },
+    { "posicion": 2, "pais": "Jamaica", "pj": 6, "g": 3, "e": 2, "p": 1, "dg": 8, "pts": 11 },
+    { "posicion": 3, "pais": "Trinidad y Tobago", "pj": 6, "g": 1, "e": 4, "p": 1, "dg": 1, "pts": 7 },
+    { "posicion": 4, "pais": "Bermudas", "pj": 6, "g": 0, "e": 1, "p": 5, "dg": -19, "pts": 1 }
+  ],
+  "Group C": [
+    { "posicion": 1, "pais": "Haití", "pj": 6, "g": 3, "e": 2, "p": 1, "dg": 3, "pts": 11 },
+    { "posicion": 2, "pais": "Honduras", "pj": 6, "g": 2, "e": 3, "p": 1, "dg": 3, "pts": 9 },
+    { "posicion": 3, "pais": "Costa Rica", "pj": 6, "g": 1, "e": 4, "p": 1, "dg": 2, "pts": 7 },
+    { "posicion": 4, "pais": "Nicaragua", "pj": 6, "g": 1, "e": 1, "p": 4, "dg": -8, "pts": 4 }
+  ]
 }
