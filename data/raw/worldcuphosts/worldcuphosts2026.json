@@ -1,0 +1,23 @@
+[
+  {
+    "pais": "México",
+    "ranking_fifa": 15,
+    "puntos_fifa": 1675.75,
+    "variacion": -6.77,
+    "clasificacion_mundial_2026": "host"
+  },
+  {
+    "pais": "EEUU",
+    "ranking_fifa": 14,
+    "puntos_fifa": 1681.88,
+    "variacion": 8.39,
+    "clasificacion_mundial_2026": "host"
+  },
+  {
+    "pais": "Canadá",
+    "ranking_fifa": 27,
+    "puntos_fifa": 1559.15,
+    "variacion": 4.52,
+    "clasificacion_mundial_2026": "host"
+  }
+]

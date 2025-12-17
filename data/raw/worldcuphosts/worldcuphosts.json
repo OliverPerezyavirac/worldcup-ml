@@ -1,23 +1,25 @@
 [
-  {
-    "pais": "México",
-    "ranking_fifa": 15,
-    "puntos_fifa": 1675.75,
-    "variacion": -6.77,
-    "clasificacion_mundial_2026": "host"
-  },
-  {
-    "pais": "Estados Unidos",
-    "ranking_fifa": 14,
-    "puntos_fifa": 1681.88,
-    "variacion": 8.39,
-    "clasificacion_mundial_2026": "host"
-  },
-  {
-    "pais": "Canadá",
-    "ranking_fifa": 27,
-    "puntos_fifa": 1559.15,
-    "variacion": 4.52,
-    "clasificacion_mundial_2026": "host"
-  }
+  { "year": 1930, "country": "Uruguay" },
+  { "year": 1934, "country": "Italia" },
+  { "year": 1938, "country": "Francia" },
+  { "year": 1950, "country": "Brasil" },
+  { "year": 1954, "country": "Suiza" },
+  { "year": 1958, "country": "Suecia" },
+  { "year": 1962, "country": "Chile" },
+  { "year": 1966, "country": "Inglaterra" },
+  { "year": 1970, "country": "México" },
+  { "year": 1974, "country": "Alemania Occidental" },
+  { "year": 1978, "country": "Argentina" },
+  { "year": 1982, "country": "España" },
+  { "year": 1986, "country": "México" },
+  { "year": 1990, "country": "Italia" },
+  { "year": 1994, "country": "Estados Unidos" },
+  { "year": 1998, "country": "Francia" },
+  { "year": 2002, "country": "Corea del Sur" },
+  { "year": 2002, "country": "Japón" },
+  { "year": 2006, "country": "Alemania" },
+  { "year": 2010, "country": "Sudáfrica" },
+  { "year": 2014, "country": "Brasil" },
+  { "year": 2018, "country": "Rusia" },
+  { "year": 2022, "country": "Catar" }
 ]

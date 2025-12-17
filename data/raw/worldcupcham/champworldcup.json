@@ -1,0 +1,31 @@
+[
+  { "country": "Brasil", "year": 1958, "features": "features_1958", "target": 1 },
+  { "country": "Brasil", "year": 1962, "features": "features_1962", "target": 1 },
+  { "country": "Brasil", "year": 1970, "features": "features_1970", "target": 1 },
+  { "country": "Brasil", "year": 1994, "features": "features_1994", "target": 1 },
+  { "country": "Brasil", "year": 2002, "features": "features_2002", "target": 1 },
+
+  { "country": "Alemania", "year": 1954, "features": "features_1954", "target": 1 },
+  { "country": "Alemania", "year": 1974, "features": "features_1974", "target": 1 },
+  { "country": "Alemania", "year": 1990, "features": "features_1990", "target": 1 },
+  { "country": "Alemania", "year": 2014, "features": "features_2014", "target": 1 },
+
+  { "country": "Italia", "year": 1934, "features": "features_1934", "target": 1 },
+  { "country": "Italia", "year": 1938, "features": "features_1938", "target": 1 },
+  { "country": "Italia", "year": 1982, "features": "features_1982", "target": 1 },
+  { "country": "Italia", "year": 2006, "features": "features_2006", "target": 1 },
+
+  { "country": "Argentina", "year": 1978, "features": "features_1978", "target": 1 },
+  { "country": "Argentina", "year": 1986, "features": "features_1986", "target": 1 },
+  { "country": "Argentina", "year": 2022, "features": "features_2022", "target": 1 },
+
+  { "country": "Francia", "year": 1998, "features": "features_1998", "target": 1 },
+  { "country": "Francia", "year": 2018, "features": "features_2018", "target": 1 },
+
+  { "country": "Uruguay", "year": 1930, "features": "features_1930", "target": 1 },
+  { "country": "Uruguay", "year": 1950, "features": "features_1950", "target": 1 },
+
+  { "country": "España", "year": 2010, "features": "features_2010", "target": 1 },
+
+  { "country": "Inglaterra", "year": 1966, "features": "features_1966", "target": 1 }
+]
